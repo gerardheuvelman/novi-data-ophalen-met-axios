@@ -1,0 +1,28 @@
+{
+  "name": "novi-data-ophalen-met-axios",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000n\u0000o\u0000v\u0000i\u0000-\u0000d\u0000a\u0000t\u0000a\u0000-\u0000o\u0000p\u0000h\u0000a\u0000l\u0000e\u0000n\u0000-\u0000m\u0000e\u0000t\u0000-\u0000a\u0000x\u0000i\u0000o\u0000s\u0000\r\u0000 \u0000",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerardheuvelman/novi-data-ophalen-met-axios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerardheuvelman/novi-data-ophalen-met-axios/issues"
+  },
+  "homepage": "https://github.com/gerardheuvelman/novi-data-ophalen-met-axios#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.7.0",
+    "process": "^0.11.10"
+  }
+}
